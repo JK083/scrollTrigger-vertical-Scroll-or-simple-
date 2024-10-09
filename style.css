@@ -11,6 +11,13 @@ html, body{
     height: 100%;
     width: 100%;
     background-color: antiquewhite;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+#page1 h1{
+    font-size: 25vw;
+    font-weight: 600;
 }
 #page2{
     height: 100%;
