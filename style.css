@@ -17,7 +17,7 @@ html, body{
 }
 #page1 h1{
     font-size: 6vw;
-    width:fit-content;
+    width: 50%;
     font-weight: 600;
 }
 #page2{
